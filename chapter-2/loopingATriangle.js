@@ -5,8 +5,6 @@ while (output.length < 7) {
     output += "#";
 }
 
-output.length++;
-
 // Book solution
 
 for (let line = "#"; line.length < 8; line += "#") console.log(line);
